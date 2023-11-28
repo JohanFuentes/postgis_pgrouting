@@ -1,0 +1,1055 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6639020820495,
+                    -33.4526100911551
+                ]
+            },
+            "properties": {
+                "name": "L12 Fuegos del Hambre",
+                "adress": "Gorbea 2063",
+                "phone": 994333957.0,
+                "opening_hours": "11:15:00",
+                "closing_hours": "21:45:00",
+                "prices": 3900,
+                "variety": 13,
+                "rating": 5.0,
+                "number_ratings": 7.0,
+                "veggie_option": 1,
+                "water_resilience": 1,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6644456497979,
+                    -33.4517174169678
+                ]
+            },
+            "properties": {
+                "name": "Doggis Japimax",
+                "adress": "Almte. Latorre 310",
+                "phone": NaN,
+                "opening_hours": "12:00:00",
+                "closing_hours": "22:00:00",
+                "prices": 3800,
+                "variety": 1,
+                "rating": 3.7,
+                "number_ratings": 329.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6623286622154,
+                    -33.4479037650595
+                ]
+            },
+            "properties": {
+                "name": "Super Pleto",
+                "adress": "Vergara 53",
+                "phone": 966771808.0,
+                "opening_hours": "08:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 1800,
+                "variety": 6,
+                "rating": 4.5,
+                "number_ratings": 7.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6621585436674,
+                    -33.4468664061484
+                ]
+            },
+            "properties": {
+                "name": "Los H\u00e9roes Chicken",
+                "adress": "Av Alameda Libertador Bernardo O'Higgins 1874",
+                "phone": 998530613.0,
+                "opening_hours": "09:00:00",
+                "closing_hours": "22:30:00",
+                "prices": 1500,
+                "variety": 3,
+                "rating": 4.3,
+                "number_ratings": 926.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 1,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 1,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6639607371196,
+                    -33.4526262077977
+                ]
+            },
+            "properties": {
+                "name": "La Fabrica de los Completos",
+                "adress": "Gorbea 2071",
+                "phone": 984269910.0,
+                "opening_hours": "12:00:00",
+                "closing_hours": "22:30:00",
+                "prices": 2500,
+                "variety": 7,
+                "rating": 4.3,
+                "number_ratings": 1083.0,
+                "veggie_option": 1,
+                "water_resilience": 1,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6659495723468,
+                    -33.4518203794945
+                ]
+            },
+            "properties": {
+                "name": "Cafeter\u00eda Don Ernesto",
+                "adress": "Grajales 2177",
+                "phone": 227855915.0,
+                "opening_hours": "09:00:00",
+                "closing_hours": "21:30:00",
+                "prices": 1500,
+                "variety": 7,
+                "rating": 4.4,
+                "number_ratings": 108.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6640475597001,
+                    -33.4563276748725
+                ]
+            },
+            "properties": {
+                "name": "El mes\u00f3n de Paula",
+                "adress": "Almte. Latorre 708",
+                "phone": 946973084.0,
+                "opening_hours": "07:30:00",
+                "closing_hours": "22:00:00",
+                "prices": 1500,
+                "variety": 2,
+                "rating": 4.9,
+                "number_ratings": 8.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 0
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6645133226254,
+                    -33.4569682451677
+                ]
+            },
+            "properties": {
+                "name": "Los Egipcios Blanco",
+                "adress": "Av. Almte. Blanco Encalada 2121",
+                "phone": 958027244.0,
+                "opening_hours": "09:00:00",
+                "closing_hours": "23:30:00",
+                "prices": 1800,
+                "variety": 5,
+                "rating": 4.2,
+                "number_ratings": 197.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6658215528935,
+                    -33.4517931465963
+                ]
+            },
+            "properties": {
+                "name": "El Italiano Veloz",
+                "adress": "Grajales 2171",
+                "phone": NaN,
+                "opening_hours": "09:00:00",
+                "closing_hours": "20:30:00",
+                "prices": 1500,
+                "variety": 4,
+                "rating": 4.7,
+                "number_ratings": 257.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6588492125535,
+                    -33.4540679193312
+                ]
+            },
+            "properties": {
+                "name": "Los Tios",
+                "adress": "Claudio Gay 1726",
+                "phone": 983398607.0,
+                "opening_hours": "10:00:00",
+                "closing_hours": "19:00:00",
+                "prices": 5500,
+                "variety": 3,
+                "rating": 4.8,
+                "number_ratings": 89.0,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 0
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6632233675763,
+                    -33.4524672338438
+                ]
+            },
+            "properties": {
+                "name": "Oregamo",
+                "adress": "Gorbea 2017",
+                "phone": 977266683.0,
+                "opening_hours": "09:00:00",
+                "closing_hours": "23:00:00",
+                "prices": 1500,
+                "variety": 5,
+                "rating": 2.6,
+                "number_ratings": 22.0,
+                "veggie_option": 1,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6628272071105,
+                    -33.4469974111093
+                ]
+            },
+            "properties": {
+                "name": "Potatoes tasty",
+                "adress": "Av Alameda Libertador Bernardo O'Higgins 1920",
+                "phone": 959270849.0,
+                "opening_hours": "07:30:00",
+                "closing_hours": "17:00:00",
+                "prices": 1500,
+                "variety": 10,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 0
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6701564379055,
+                    -33.4497856186518
+                ]
+            },
+            "properties": {
+                "name": "Al tocomple",
+                "adress": "Av. Espa\u00f1a 54",
+                "phone": 955174106.0,
+                "opening_hours": "12:00:00",
+                "closing_hours": "21:00:00",
+                "prices": 1500,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 1,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6672337569051,
+                    -33.4497432656495
+                ]
+            },
+            "properties": {
+                "name": "Bison burger ",
+                "adress": "Salvador sanfuentes 2255",
+                "phone": 974095436.0,
+                "opening_hours": "10:00:00",
+                "closing_hours": "17:00:00",
+                "prices": 2500,
+                "variety": 5,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6664655288213,
+                    -33.4489063544433
+                ]
+            },
+            "properties": {
+                "name": "Hort ema",
+                "adress": "Echaurren 46",
+                "phone": NaN,
+                "opening_hours": "08:00:00",
+                "closing_hours": "21:30:00",
+                "prices": 1300,
+                "variety": 3,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6664437163201,
+                    -33.4503546314503
+                ]
+            },
+            "properties": {
+                "name": "La fuente griega",
+                "adress": "Echaurren 167",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "18:00:00",
+                "prices": 1000,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6665425473569,
+                    -33.4507735963506
+                ]
+            },
+            "properties": {
+                "name": "Emporium xpress",
+                "adress": "Sazi\u00e9 2299",
+                "phone": NaN,
+                "opening_hours": "09:00:00",
+                "closing_hours": "17:30:00",
+                "prices": 1000,
+                "variety": 1,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 1,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 1,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6678875058166,
+                    -33.450335127712
+                ]
+            },
+            "properties": {
+                "name": "Sandwicheria Rep\u00fablica ",
+                "adress": "Rep\u00fablica 128",
+                "phone": NaN,
+                "opening_hours": "08:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 1500,
+                "variety": 12,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 1,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6659897259099,
+                    -33.450666462824
+                ]
+            },
+            "properties": {
+                "name": "Ok delicias",
+                "adress": "Sazi\u00e9 2180",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "22:00:00",
+                "prices": 1000,
+                "variety": 3,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6658875311139,
+                    -33.4506394312058
+                ]
+            },
+            "properties": {
+                "name": "Sin nombre",
+                "adress": "Sazi\u00e9 2170",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 1000,
+                "variety": 6,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6629720669235,
+                    -33.4499569194104
+                ]
+            },
+            "properties": {
+                "name": "Happy food ",
+                "adress": "Sazi\u00e9 1966",
+                "phone": NaN,
+                "opening_hours": "10:30:00",
+                "closing_hours": "21:00:00",
+                "prices": 2200,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6623991465695,
+                    -33.4497623440946
+                ]
+            },
+            "properties": {
+                "name": "Los pandas",
+                "adress": "Sazi\u00e9 1925",
+                "phone": NaN,
+                "opening_hours": "08:30:00",
+                "closing_hours": "21:00:00",
+                "prices": 1500,
+                "variety": 5,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6625006919876,
+                    -33.4498089491458
+                ]
+            },
+            "properties": {
+                "name": "La Tia",
+                "adress": "Sazi\u00e9 1923",
+                "phone": NaN,
+                "opening_hours": "11:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 2300,
+                "variety": 3,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6620719437135,
+                    -33.4497269855516
+                ]
+            },
+            "properties": {
+                "name": "Barcelona",
+                "adress": "Vergara 199",
+                "phone": NaN,
+                "opening_hours": "09:00:00",
+                "closing_hours": "21:00:00",
+                "prices": 3500,
+                "variety": 3,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6621176890386,
+                    -33.4489360478355
+                ]
+            },
+            "properties": {
+                "name": "La tia",
+                "adress": "Vergara 132",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 2000,
+                "variety": 6,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 1,
+                "offers": 1,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6614815321996,
+                    -33.4472594515183
+                ]
+            },
+            "properties": {
+                "name": "A donde sea",
+                "adress": "Av. Ej\u00e9rcito Libertador 21",
+                "phone": NaN,
+                "opening_hours": "09:00:00",
+                "closing_hours": "20:30:00",
+                "prices": 2500,
+                "variety": 5,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 1,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6659548798556,
+                    -33.4518263109992
+                ]
+            },
+            "properties": {
+                "name": "Pollos a la plaza ",
+                "adress": "Grajales 2173",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "21:00:00",
+                "prices": 1800,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 1
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6687843263445,
+                    -33.4524001131097
+                ]
+            },
+            "properties": {
+                "name": "Cafeter\u00eda la abuela",
+                "adress": "Grajales 2355",
+                "phone": NaN,
+                "opening_hours": "08:00:00",
+                "closing_hours": "21:30:00",
+                "prices": 1800,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 0,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6645165916056,
+                    -33.4523516101926
+                ]
+            },
+            "properties": {
+                "name": "Sangucheria latorre",
+                "adress": "Almte. Latorre 371",
+                "phone": NaN,
+                "opening_hours": "12:00:00",
+                "closing_hours": "23:00:00",
+                "prices": 2000,
+                "variety": 6,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6636771819903,
+                    -33.4525640342527
+                ]
+            },
+            "properties": {
+                "name": "Top fr\u00edes",
+                "adress": "Gorbea 2041",
+                "phone": NaN,
+                "opening_hours": "12:00:00",
+                "closing_hours": "21:00:00",
+                "prices": 3000,
+                "variety": 6,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6603036179152,
+                    -33.4518744317086
+                ]
+            },
+            "properties": {
+                "name": "Cafeter\u00eda Rusmari",
+                "adress": "Gorbea 1785",
+                "phone": NaN,
+                "opening_hours": "09:00:00",
+                "closing_hours": "20:00:00",
+                "prices": 2000,
+                "variety": 6,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6603999007884,
+                    -33.4518895495919
+                ]
+            },
+            "properties": {
+                "name": "Kokavi",
+                "adress": "Gorbea 1793",
+                "phone": NaN,
+                "opening_hours": "12:30:00",
+                "closing_hours": "23:00:00",
+                "prices": 2000,
+                "variety": 4,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 1,
+                "junaeb": 1
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6606506423886,
+                    -33.4513479034649
+                ]
+            },
+            "properties": {
+                "name": "La fabrica de los completos",
+                "adress": "Av. Ej\u00e9rcito Libertador 341",
+                "phone": NaN,
+                "opening_hours": "10:00:00",
+                "closing_hours": "21:00:00",
+                "prices": 3000,
+                "variety": 10,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 1,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 1,
+                "price_variation": 1,
+                "junaeb": 0
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6642160289424,
+                    -33.4546910466634
+                ]
+            },
+            "properties": {
+                "name": "Dfuzion",
+                "adress": "Almte. Latorre 566",
+                "phone": NaN,
+                "opening_hours": "12:00:00",
+                "closing_hours": "22:30:00",
+                "prices": 2000,
+                "variety": 5,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 0,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 0
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6597278136398,
+                    -33.4565638057396
+                ]
+            },
+            "properties": {
+                "name": "Mundo s\u00e1ndwich ",
+                "adress": "Av. Ej\u00e9rcito Libertador 799",
+                "phone": 931922106.0,
+                "opening_hours": "07:30:00",
+                "closing_hours": "21:00:00",
+                "prices": 1500,
+                "variety": 2,
+                "rating": NaN,
+                "number_ratings": NaN,
+                "veggie_option": 0,
+                "water_resilience": 0,
+                "light_resilience": 0,
+                "offers": 1,
+                "social_media": 1,
+                "affected_by_protests": 0,
+                "price_variation": 0,
+                "junaeb": 0
+            },
+            "id": 37
+        }
+    ]
+}
